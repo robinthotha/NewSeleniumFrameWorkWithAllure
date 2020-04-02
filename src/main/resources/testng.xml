@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Ninja Tutorial Regression Test">
+
+<test name="Regression suite" >
+    <classes>
+      <class name="com.nj.qa.testcases.LoginPageTest"/>
+    </classes>
+ </test>
+</suite>

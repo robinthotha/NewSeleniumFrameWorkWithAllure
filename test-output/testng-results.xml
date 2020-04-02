@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18501" started-at="2020-04-02T04:30:07Z" finished-at="2020-04-02T04:30:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18501" started-at="2020-04-02T04:30:07Z" finished-at="2020-04-02T04:30:26Z">
+      <class name="com.nj.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.nj.qa.testcases.LoginPageTest@151c8c3]" name="setup" is-config="true" duration-ms="7340" started-at="2020-04-02T00:30:07Z" finished-at="2020-04-02T00:30:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyTitleTest()[pri:1, instance:com.nj.qa.testcases.LoginPageTest@151c8c3]" name="verifyTitleTest" duration-ms="100" started-at="2020-04-02T00:30:15Z" description="Verify title of Login Page" finished-at="2020-04-02T00:30:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nj.qa.testcases.LoginPageTest@151c8c3]" name="tearDown" is-config="true" duration-ms="578" started-at="2020-04-02T00:30:15Z" finished-at="2020-04-02T00:30:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.nj.qa.testcases.LoginPageTest@151c8c3]" name="setup" is-config="true" duration-ms="8366" started-at="2020-04-02T00:30:15Z" finished-at="2020-04-02T00:30:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validCredentialsloginTest()[pri:2, instance:com.nj.qa.testcases.LoginPageTest@151c8c3]" name="validCredentialsloginTest" duration-ms="1328" started-at="2020-04-02T00:30:24Z" description="Verify User is able to login to application with Correct Username and Password" finished-at="2020-04-02T00:30:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validCredentialsloginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nj.qa.testcases.LoginPageTest@151c8c3]" name="tearDown" is-config="true" duration-ms="734" started-at="2020-04-02T00:30:25Z" finished-at="2020-04-02T00:30:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nj.qa.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
