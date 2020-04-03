@@ -5,6 +5,7 @@
 <test name="Regression suite" >
     <classes>
       <class name="com.nj.qa.testcases.LoginPageTest"/>
+      <class name="com.nj.qa.testcases.HomePageTest"></class>
     </classes>
  </test>
 </suite>

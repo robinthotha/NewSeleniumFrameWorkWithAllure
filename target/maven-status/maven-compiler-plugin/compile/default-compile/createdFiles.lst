@@ -1,4 +1,6 @@
-com\nj\qa\pages\HomePage.class
+com\nj\qa\pages\SoftwarePage.class
 com\qa\nj\util\TestUtil.class
+com\nj\qa\pages\TabletsPage.class
+com\nj\qa\pages\HomePage.class
 com\nj\qa\pages\LoginPage.class
 com\nj\qa\base\TestBase.class
